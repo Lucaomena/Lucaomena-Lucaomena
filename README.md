@@ -1,4 +1,4 @@
-# Lucaomena-Lucaomena
+# Lucaomena
 
   <div align ="center">
   <a href="https://github.com/Lucaomena">
