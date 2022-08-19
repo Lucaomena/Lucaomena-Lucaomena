@@ -23,7 +23,8 @@
        <a href="https://discord.com/channels/969641304084602930/969641304084602932" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
        <a href = "mailto:lucaomena32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucasomena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
    </div>
+  </br>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Lucaomena/count.svg" /></p>
 
-![snake gif](https://github.com/Lucaomena/Lucaomena/blob/main/.github/workflows/blank.yml)
+![snake gif](https://github.com/Lucaomena/Lucaomena/blob/output/github-contribution-grid-snake.svg)
